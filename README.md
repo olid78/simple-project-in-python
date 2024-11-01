@@ -24,7 +24,7 @@ The **Student Profile System** is a simple command-line application that allows 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-profile-system.git
+   git clone https://github.com/olid78/student-profile-system.git
    ```
 2. Navigate to the project directory:
    ```bash
