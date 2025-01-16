@@ -50,6 +50,3 @@ Follow the on-screen prompts to create a profile, log in, and manage subjects.
 Feel free to fork the repository and submit a pull request with improvements or additional features!
 
 
----
-
-You can customize the repository link and any other details as needed!
